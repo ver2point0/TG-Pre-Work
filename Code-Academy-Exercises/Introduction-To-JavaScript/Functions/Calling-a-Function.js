@@ -5,3 +5,5 @@ function sayThanks() {
 sayThanks();
 sayThanks();
 sayThanks();
+
+// I learned how to call a function. 

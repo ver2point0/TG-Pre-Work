@@ -9,3 +9,5 @@ const callMyNightSky = () => {
 
 console.log(callMyNightSky());
 console.log(stars);
+
+// I learned about scope pollution. 

@@ -41,3 +41,5 @@ footer {
   background-color: dodgerblue;
   grid-area: footer;
 }
+
+/* I learned about grid template areas. */

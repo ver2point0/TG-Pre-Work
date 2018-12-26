@@ -6,3 +6,5 @@ function logCitySkyline() {
 }
 
 console.log(logCitySkyline());
+
+// I learned about block and scope.

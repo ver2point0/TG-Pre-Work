@@ -24,3 +24,5 @@ h1 {
 .capitalize {
   text-transform: capitalize;
 }
+
+/* I learned about specificity. */

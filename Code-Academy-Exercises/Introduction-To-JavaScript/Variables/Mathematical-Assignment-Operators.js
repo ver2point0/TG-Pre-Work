@@ -18,3 +18,5 @@ console.log('The value of levelUp:', levelUp);
 console.log('The value of powerLevel:', powerLevel);
 console.log('The value of multiplyMe:', multiplyMe);
 console.log('The value of quarterMe:', quarterMe);
+
+// I learned about mathematical assignment operators. 

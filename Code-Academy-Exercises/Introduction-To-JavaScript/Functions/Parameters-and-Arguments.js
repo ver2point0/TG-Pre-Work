@@ -3,3 +3,5 @@ function sayThanks(name) {
 }
 
 sayThanks('Cole');
+
+// I learned about parameters and arguments. 

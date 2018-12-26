@@ -5,3 +5,5 @@ function getReminder() {
 function greetInSpanish() {
   console.log("Buenas Tardes.");
 }
+
+// I learned about function declarations. 

@@ -7,3 +7,5 @@ if(sale) {
 } else {
   console.log("Time to wait for a sale.");
 }
+
+// I learned about if else statements. 

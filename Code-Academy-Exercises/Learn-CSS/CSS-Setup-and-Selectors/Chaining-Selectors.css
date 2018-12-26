@@ -28,3 +28,5 @@ h2.destination {
 .capitalize {
   text-transform: capitalize;
 }
+
+/* I learned about chaining selectors. */

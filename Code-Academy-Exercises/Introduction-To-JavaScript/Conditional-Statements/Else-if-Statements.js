@@ -11,3 +11,5 @@ if (season === 'spring') {
 } else {
   console.log('Invalid season.');
 }
+
+// I learned about else if statements. 
