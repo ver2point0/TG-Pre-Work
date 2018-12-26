@@ -4,6 +4,6 @@ const plantNeedsWater = function(day) {
   } else {
     return false;
   }
-}
+};
 
 console.log(plantNeedsWater("Tuesday"));
