@@ -1,5 +1,7 @@
+const numberClusters = [[1,2], [3,4], [5,6]];
+
+const target = numberClusters[2][1];
 
 
 
-
-// GOING forward: comment what you learn each lesson
+// I learned about nested arrays.
