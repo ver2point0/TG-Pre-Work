@@ -10,3 +10,5 @@ let spaceship = {
 let crewCount = spaceship.numCrew;
 
 const planetArray = spaceship.flightPath;
+
+// I learned about dot notation.
