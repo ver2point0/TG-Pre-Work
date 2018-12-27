@@ -1,5 +1,7 @@
 
+let groceryList = ['bread', 'tomatoes', 'milk'];
+
+groceryList[1] = 'avocados';
 
 
-
-// GOING forward: comment what you learn each lesson
+// I learned how to update elements.
