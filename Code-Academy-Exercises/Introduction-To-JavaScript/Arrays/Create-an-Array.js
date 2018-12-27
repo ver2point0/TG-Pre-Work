@@ -1,5 +1,7 @@
+const hobbies = ["one", "two", "three"];
+
+console.log(hobbies);
 
 
 
-
-// GOING forward: comment what you learn each lesson
+// I learned how to create an array
